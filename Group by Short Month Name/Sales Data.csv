@@ -1,0 +1,89 @@
+sl_no,sales_date,dept_name,sales_amount
+1,01-04-25,Real Estate,9.03
+2,01-08-25,Software,101.16
+3,01-08-25,Transport,18.14
+4,13-01-25,Garments,7.85
+5,14-01-25,Garments,13.36
+6,15-01-25,Garments,13.64
+7,18-01-25,Food and Beverage,63.73
+8,19-01-25,Food and Beverage,73.89
+9,19-01-25,Software,84.25
+10,20-01-25,Real Estate,36.82
+11,22-01-25,Real Estate,55.42
+12,23-01-25,Food and Beverage,59.6
+13,02-01-25,Transport,102.13
+14,02-02-25,Real Estate,12.69
+15,02-08-25,Garments,11.35
+16,02-10-25,Software,120.43
+17,16-02-25,Transport,114.11
+18,23-02-25,Garments,21.19
+19,03-04-25,Real Estate,53.41
+20,03-04-25,Food and Beverage,76.42
+21,15-03-25,Food and Beverage,63.75
+22,15-03-25,Real Estate,36.82
+23,19-03-25,Real Estate,38.75
+24,21-03-25,Food and Beverage,96.09
+25,23-03-25,Transport,108.3
+26,04-02-25,Garments,21.98
+27,04-04-25,Software,127.07
+28,04-04-25,Garments,11.71
+29,04-11-25,Transport,117.69
+30,14-04-25,Transport,92.35
+31,23-04-25,Food and Beverage,97.65
+32,05-01-25,Food and Beverage,30.14
+33,05-02-25,Software,107.58
+34,05-06-25,Food and Beverage,86.43
+35,05-09-25,Food and Beverage,76.19
+36,14-05-25,Transport,30.38
+37,14-05-25,Garments,21.66
+38,20-05-25,Transport,109.58
+39,22-05-25,Real Estate,35.18
+40,23-05-25,Real Estate,5.49
+41,24-05-25,Garments,2.48
+42,25-05-25,Software,89.82
+43,14-06-25,Software,127.67
+44,07-02-25,Real Estate,51.47
+45,07-04-25,Software,59.09
+46,07-06-25,Real Estate,44.29
+47,07-10-25,Transport,104.96
+48,21-07-25,Transport,90.59
+49,08-04-25,Software,107.81
+50,14-08-25,Food and Beverage,6.83
+51,16-08-25,Software,127.13
+52,22-08-25,Real Estate,41.11
+53,24-08-25,Food and Beverage,66.4
+54,09-03-25,Real Estate,59.34
+55,09-05-25,Real Estate,52.67
+56,09-07-25,Garments,12.64
+57,09-07-25,Food and Beverage,3.07
+58,14-09-25,Software,86.13
+59,15-09-25,Food and Beverage,59.92
+60,16-09-25,Transport,99.68
+61,16-09-25,Transport,76.59
+62,16-09-25,Transport,73.82
+63,17-09-25,Transport,107.26
+64,25-09-25,Food and Beverage,83
+65,10-03-25,Transport,72.84
+66,10-08-25,Food and Beverage,87.58
+67,10-09-25,Garments,14.02
+68,10-11-25,Garments,4.59
+69,10-11-25,Real Estate,65.67
+70,10-12-25,Real Estate,64.53
+71,13-10-25,Software,60.94
+72,17-10-25,Software,118.39
+73,20-10-25,Real Estate,40.79
+74,20-10-25,Garments,10.77
+75,11-06-25,Software,36.23
+76,17-11-25,Transport,20.9
+77,19-11-25,Garments,19.05
+78,20-11-25,Software,116.58
+79,12-02-25,Software,10.74
+80,12-11-25,Garments,1.09
+81,14-12-25,Software,110.39
+82,16-12-25,Real Estate,62.38
+83,17-12-25,Software,10.19
+84,18-12-25,Garments,15.15
+85,19-12-25,Transport,65.11
+86,23-12-25,Transport,110.76
+87,23-12-25,Food and Beverage,86.68
+88,25-12-25,Food and Beverage,115.27
