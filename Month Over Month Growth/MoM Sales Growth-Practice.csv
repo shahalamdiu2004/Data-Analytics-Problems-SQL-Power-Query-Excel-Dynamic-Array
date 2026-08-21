@@ -1,0 +1,89 @@
+sales_date,dept_name,sales_amount
+01-04-25,Real Estate,9.03
+01-08-25,Software,101.16
+01-08-25,Transport,18.14
+01-13-25,Garments,7.85
+01-14-25,Garments,13.36
+01-15-25,Garments,13.64
+01-18-25,Food and Beverage,63.73
+01-19-25,Food and Beverage,73.89
+01-19-25,Software,84.25
+01-20-25,Real Estate,36.82
+01-22-25,Real Estate,55.42
+01-23-25,Food and Beverage,59.6
+02-01-25,Transport,102.13
+02-02-25,Real Estate,12.69
+02-08-25,Garments,11.35
+02-10-25,Software,120.43
+02-16-25,Transport,114.11
+02-23-25,Garments,21.19
+03-04-25,Real Estate,53.41
+03-04-25,Food and Beverage,76.42
+03-15-25,Food and Beverage,63.75
+03-15-25,Real Estate,36.82
+03-19-25,Real Estate,38.75
+03-21-25,Food and Beverage,96.09
+03-23-25,Transport,108.3
+04-02-25,Garments,21.98
+04-04-25,Software,127.07
+04-04-25,Garments,11.71
+04-11-25,Transport,117.69
+04-14-25,Transport,92.35
+04-23-25,Food and Beverage,97.65
+05-01-25,Food and Beverage,30.14
+05-02-25,Software,107.58
+05-06-25,Food and Beverage,86.43
+05-09-25,Food and Beverage,76.19
+05-14-25,Transport,30.38
+05-14-25,Garments,21.66
+05-20-25,Transport,109.58
+05-22-25,Real Estate,35.18
+05-23-25,Real Estate,5.49
+05-24-25,Garments,2.48
+05-25-25,Software,89.82
+06-14-25,Software,127.67
+07-02-25,Real Estate,51.47
+07-04-25,Software,59.09
+07-06-25,Real Estate,44.29
+07-10-25,Transport,104.96
+07-21-25,Transport,90.59
+08-04-25,Software,107.81
+08-14-25,Food and Beverage,6.83
+08-16-25,Software,127.13
+08-22-25,Real Estate,41.11
+08-24-25,Food and Beverage,66.4
+09-03-25,Real Estate,59.34
+09-05-25,Real Estate,52.67
+09-07-25,Garments,12.64
+09-07-25,Food and Beverage,3.07
+09-14-25,Software,86.13
+09-15-25,Food and Beverage,59.92
+09-16-25,Transport,99.68
+09-16-25,Transport,76.59
+09-16-25,Transport,73.82
+09-17-25,Transport,107.26
+09-25-25,Food and Beverage,83
+10-03-25,Transport,72.84
+10-08-25,Food and Beverage,87.58
+10-09-25,Garments,14.02
+10-11-25,Garments,4.59
+10-11-25,Real Estate,65.67
+10-12-25,Real Estate,64.53
+10-13-25,Software,60.94
+10-17-25,Software,118.39
+10-20-25,Real Estate,40.79
+10-20-25,Garments,10.77
+11-06-25,Software,36.23
+11-17-25,Transport,20.9
+11-19-25,Garments,19.05
+11-20-25,Software,116.58
+12-02-25,Software,10.74
+12-11-25,Garments,1.09
+12-14-25,Software,110.39
+12-16-25,Real Estate,62.38
+12-17-25,Software,10.19
+12-18-25,Garments,15.15
+12-19-25,Transport,65.11
+12-23-25,Transport,110.76
+12-23-25,Food and Beverage,86.68
+12-25-25,Food and Beverage,115.27
