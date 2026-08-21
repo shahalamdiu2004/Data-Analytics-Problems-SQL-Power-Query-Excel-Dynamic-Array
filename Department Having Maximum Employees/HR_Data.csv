@@ -1,0 +1,159 @@
+﻿employee_id,first_name,second_name,department
+1741,ohidur,rahaman,Accounts
+1742,nazmul,islam,Nursing
+1743,ahsan,nipu,Nursing
+1744,lavli,khatun,Nursing
+1745,lutful,kabir,Nursing
+1746,shohana,pervin,Nursing
+1747,monowar,hossain,HR
+1748,md,mahiuddin,Nursing
+1749,abu,syed,Nursing
+1750,jahan,begum,Nursing
+1751,uddin,sikder,Audit
+1752,afroja,islam,Nursing
+1753,ariful,hafiz,Nursing
+1754,rani,das,Logistic
+1755,sema,begum,Medical Support
+1756,bellal,hossain,Nursing
+1757,rani,saha,Nursing
+1758,imam,uddin,Nursing
+1759,rahman,chowdhury,Nursing
+1760,imtiaz,chowdhury,Nursing
+1761,sultana,ruma,Logistic
+1762,tariqul,islam,Nursing
+1763,hasina,akter,Medical Support
+1764,boni,amin,Logistic
+1765,uzzal,miah,Logistic
+1766,jahidul,alam,Supply Chain
+1767,salima,sikder,Nursing
+1768,rashadull,islam,Nursing
+1769,eunus,hasan,Medical Support
+1770,kudrat,ullah,Nursing
+1771,farida,yesmean,Nursing
+1772,farhatul,bari,Supply Chain
+1773,iqbal,hossain,Supply Chain
+1774,maksuda,easmin,Supply Chain
+1775,mahbub,alam,Logistic
+1776,md.,sahajahan,Logistic
+1777,kaniz,fatema,Supply Chain
+1778,rokeua,sultana,Supply Chain
+1779,sukanta,biswas,Medical Support
+1780,masum,billah,Nursing
+1781,salim,masud,Nursing
+1782,jahangir,hossain,Nursing
+1783,azizul,islam,Logistic
+1784,mizanur,rahman,Nursing
+1785,montasir,billah,Logistic
+1786,zunnurain,siddiki,Nursing
+1787,islam,khan,Logistic
+1788,amirul,mir,Supply Chain
+1789,sohag,molla,Supply Chain
+1790,humayun,kabir,Audit
+1791,jaber,hossain,Medical Support
+1792,mostafijur,rahman,HR
+1793,alamin,hossain,Nursing
+1794,shafi,ahmed,Nursing
+1795,md.,nuruzzaman,Nursing
+1796,sabiha,farzin,Logistic
+1797,nath,datta,Supply Chain
+1798,shiful,alam,Logistic
+1799,kumar,mallick,Logistic
+1800,sahidul,islam,Nursing
+1801,mamunur,rashid,Audit
+1802,m,kamruzzaman,Supply Chain
+1803,zakaria,hossain,Medical Support
+1804,yusup,ali,Nursing
+1805,shoriful,islam,Nursing
+1806,alam,shilpe,Accounts
+1807,sami,rahman,Accounts
+1808,saiful,hasan,Logistic
+1809,uddin,ahmed,Logistic
+1810,debi,pandit,Audit
+1811,enayet,kabir,HR
+1812,selina,islam,Nursing
+1813,akter,hossain,Medical Support
+1814,komar,gosh,Nursing
+1815,shelina,akter,HR
+1816,khurshed,alam,Logistic
+1817,zahir,uddin,Medical Support
+1818,mohsarrof,hossain,Logistic
+1819,zulhus,hossain,Nursing
+1821,mahabub,alam,Audit
+1822,md.,moniruzzaman,Supply Chain
+1823,sarwar,jahan,HR
+1826,altab,hossain,Supply Chain
+1828,abdul,malek,Medical Support
+1829,akter,hossain,HR
+1830,mosammat,sahanur,Supply Chain
+1831,muhihul,islam,Medical Support
+1832,anika,seraj,Medical Support
+1835,farida,begum,Logistic
+1838,rockya,hasan,Supply Chain
+1840,aziz,ahamed,Logistic
+1841,kawsar,hasan,Logistic
+1842,forkana,begum,Medical Support
+1843,shafiul,alam,Medical Support
+1844,uddin,ahmed,Logistic
+1845,hasan,mia,Medical Support
+1846,chandra,karmakar,Logistic
+1847,subon,acharjee,Logistic
+1848,kumar,dhar,Supply Chain
+1851,m.,saiduzzaman,Logistic
+1853,islam,moral,Logistic
+1854,shamima,hossain,Medical Support
+1855,jillur,rahman,Supply Chain
+1856,kamrul,abedin,Medical Support
+1859,uddin,sumon,Medical Support
+1860,ibney,anwar,Supply Chain
+1861,layla,akter,Supply Chain
+1862,moin,uddin,Supply Chain
+1863,alam,bellal,Medical Support
+1864,rejaul,karim,Logistic
+1866,mohammad,alamgir,Supply Chain
+1867,nayeemur,rahman,Medical Support
+1868,sanjana,chowdhury,Supply Chain
+1869,laila,begum,Medical Support
+1870,md.mahbubur,rahman,Medical Support
+1871,mojibul,hoque,Medical Support
+1875,abu,sufian,Logistic
+1877,jahangir,khan,Supply Chain
+1878,rezwone,hossain,Supply Chain
+1887,karima,islam,Supply Chain
+1888,alamgir,siddik,Supply Chain
+1890,azizul,haque,Logistic
+1891,shahjahan,miah,Supply Chain
+1892,ara,jahan,HR
+1895,mamunur,rashid,Logistic
+1896,tarannum,mahbuba,Logistic
+1902,nasrin,akter,HR
+1908,kumar,bose,Supply Chain
+1910,rani,sikder,Supply Chain
+1913,md.,asaduzzaman,HR
+1918,islam,mallik,Supply Chain
+1923,enamul,haque,HR
+1928,md.,shajahan,HR
+1929,mostafijur,rahman,Supply Chain
+1931,fakhruzzaman,jewel,Supply Chain
+1933,abu,siddique,Supply Chain
+1934,anisul,islam,Supply Chain
+1935,nasib,alam,Supply Chain
+1941,kader,bepari,HR
+1954,asif,iqbal,HR
+1974,safiqul,islam,HR
+1978,azim,uddin,HR
+1995,jasmin,uddin,HR
+2019,abdul,barek,HR
+2026,sayla,nasrin,Audit
+2037,shamsul,alam,Audit
+2051,mazibur,rahman,Accounts
+2053,muktar,hossain,Accounts
+2061,suvro,dev,Accounts
+2065,uddin,chowdhury,Accounts
+2080,mohammad,hossain,Accounts
+2092,rahman,imon,Accounts
+2094,sarwar,chowdhury,Accounts
+2097,ayub,ali,Accounts
+2108,kamrun,nahar,Accounts
+2111,ismail,hossain,Accounts
+2133,minhazul,islam,Accounts
+2531,amir,hossen,Accounts
